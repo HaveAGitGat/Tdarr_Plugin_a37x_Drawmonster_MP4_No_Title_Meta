@@ -5,7 +5,7 @@ function details() {
 
   return {
     id: "Tdarr_Plugin_a37x_Drawmonster_MP4_No_Title_Meta",
-    Name: "Drawmonster MP4 AAC No title meta data ",
+    Name: "Drawmonster MP4 No title meta data ",
     Type: "Video",
     Description: `This plugin removes metadata (if a title exists). The output container is mp4. \n\n
 `,
